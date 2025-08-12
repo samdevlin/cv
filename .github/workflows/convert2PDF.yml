@@ -1,0 +1,30 @@
+name: convert2PDF
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  converttopdf:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Convert CV
+        run: |-
+          npm install -g md-to-pdf
+          mkdir -p _pdf
+          echo; echo "Input Folder Listing"
+          ls
+          echo; echo "Generating PDF"
+          for f in *.md; do cat $f; echo; done | md-to-pdf > _pdf/cv_${EPOCHSECONDS}.pdf
+          cd _pdf
+          echo; echo "Output Folder Listing"
+          ls
+          cd ..
+      
+      - uses: actions/upload-artifact@v1
+        with:
+          name: output
+          path: _output

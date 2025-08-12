@@ -1,20 +1,21 @@
+name: CV to PDF
 on:
   release:
     types: [published]
 
-name: CreatePDFs
-
 jobs:
-  makepdfs:
+  converttopdf:
+    name: Build PDF
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v5
-    - uses: mkrakowitzer/actions-makepdfs@master
-      if: github.ref == 'refs/heads/master'
-      with:
-        markdown_dir: .
-        output_dir: pdfs
-    - uses: actions/upload-artifact@v4
-      with:
-        name: platform-architecture-docs
-        path: tmp
+      - uses: actions/checkout@v3
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: .
+          output_dir: pdfs
+          # Default is true, can set to false to only get PDF files
+          build_html: false
+      - uses: actions/upload-artifact@v3
+        with:
+          name: .
+          path: pdfs

@@ -23,7 +23,7 @@ jobs:
           pip install md2pdf
           mkdir -p _pdf
           echo; echo "Generating PDF"
-          md2pdf README.md _pdf/cv_${EPOCHSECONDS}.pdf
+          md2pdf README.md _pdf/cv_${EPOCHSECONDS}.pdf --css styles/markdown.css
           cd _pdf
           echo; echo "Output Folder Listing"
           ls

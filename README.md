@@ -1,5 +1,5 @@
 # Samuel Devlin
-Backend Developer / Architect\
+Backend Developer / Architect
 +34 689 583 462 | [samdevlin67@gmail.com](mailto\:samdevlin67@gmail.com) | Barcelona, España
 
 ---
@@ -12,23 +12,23 @@ Backend Developer / Architect\
 
 ### KEY SKILLS
 
-**Core Languages**\
+**Core Languages**
 Node.js (JavaScript/TypeScript), Java. Familiar with Python & Go.
 
-**Technical**\
+**Technical**
 Spring Framework, Docker, Unit/Integration Testing, OOP, Azure, Azure DevOps, SAP BTP, Heroku, App Engine, Android Development, Github, Gerrit, JIRA, Bash Scripting, Linux, Dynatrace, Grafana, REST APIs, OData, Redis, MongoDB, SAP HANA, CI/CD.
 
-**Non-Technical**\
+**Non-Technical**
 Agile Methodology, Communication, Influencing without Authority, Scrum, SAFe.
 
-**Spoken Languages**\
+**Spoken Languages**
 English (native), Irish (fluent), Spanish (conversational).
 
 ---
 
 ### WORK EXPERIENCE
 
-**Developer Architect (Tech Lead / Staff Engineer equivalent)**\
+**Developer Architect (Tech Lead / Staff Engineer equivalent)**
 *SAP España - Barcelona | May 2022 - Present*
 
 - Hired as the first employee to establish and build a new product development team; made key hiring decisions for 30+ engineering, DevOps, security, and design roles in a greenfield location.
@@ -40,7 +40,7 @@ English (native), Irish (fluent), Spanish (conversational).
 - Used Dynatrace & Grafana for live issue root cause analysis and performance optimization.
 - Created MVPs and non-critical projects in Go and Python to explore new tech.
 
-**Technical Lead**\
+**Technical Lead**
 *SAP Ireland - Dublin | Oct 2019 – May 2022*
 
 - Provided technical mentorship and 1-1s for 10 direct reports.
@@ -48,7 +48,7 @@ English (native), Irish (fluent), Spanish (conversational).
 - Scoped and technically validated new client projects, overseeing resourcing and staffing.
 - Actively contributed to development work on customer projects.
 
-**Backend Java Engineer**\
+**Backend Java Engineer**
 *SAP Ireland - Dublin | Mar 2018 – May 2022*
 
 - Delivered custom SAP Commerce implementations using Java and Spring for medium and large enterprises.
@@ -56,23 +56,23 @@ English (native), Irish (fluent), Spanish (conversational).
 - Investigated and resolved global escalations; delivered platform patches.
 - Co-developed MVP of SAP’s learning product using Node.js and contributed to early design.
 
-**Support Engineer**\
+**Support Engineer**
 *SAP Ireland - Dublin | May 2016 – Mar 2018*
 
 - Conducted onsite/remote technical engagements with global clients to resolve complex issues.
 - Contributed ABAP-based Key Figures to ERP release cycles.
 
-**Intern & 1st Level Support**\
+**Intern & 1st Level Support**
 *SAP Ireland - Dublin | Apr 2015 – May 2016*
 
 ---
 
 ### EDUCATION
 
-**BSc Software Development, 1st Class Honours (4.0 GPA)**\
+**BSc Software Development, 1st Class Honours (4.0 GPA)**
 Institute of Technology Carlow, Ireland | May 2016
 
-**Leaving Certificate**\
+**Leaving Certificate**
 Patrician Secondary School, Ireland | Aug 2012
 
 ---

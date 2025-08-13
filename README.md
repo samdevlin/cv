@@ -1,6 +1,5 @@
 # Samuel Devlin
-Backend Developer / Architect
-+34 689 583 462 | [samdevlin67@gmail.com](mailto\:samdevlin67@gmail.com) | Barcelona, España
+Backend Developer / Architect | +34 689 583 462 | [samdevlin67@gmail.com](mailto\:samdevlin67@gmail.com) | Barcelona, España
 
 ---
 
@@ -29,7 +28,7 @@ English (native), Irish (fluent), Spanish (conversational).
 ### WORK EXPERIENCE
 
 **Developer Architect (Tech Lead / Staff Engineer equivalent)**
-*SAP España - Barcelona | May 2022 - Present*
+*SAP España - Barcelona* | *May 2022 - Present*
 
 - Hired as the first employee to establish and build a new product development team; made key hiring decisions for 30+ engineering, DevOps, security, and design roles in a greenfield location.
 - Implemented and refined development and release processes; shaped team culture from MVP stage to commercial product.
@@ -41,7 +40,7 @@ English (native), Irish (fluent), Spanish (conversational).
 - Created MVPs and non-critical projects in Go and Python to explore new tech.
 
 **Technical Lead**
-*SAP Ireland - Dublin | Oct 2019 – May 2022*
+*SAP Ireland - Dublin* | *Oct 2019 – May 2022*
 
 - Provided technical mentorship and 1-1s for 10 direct reports.
 - Led initiatives to improve employee engagement; ran focus groups and implemented cultural changes.
@@ -49,7 +48,7 @@ English (native), Irish (fluent), Spanish (conversational).
 - Actively contributed to development work on customer projects.
 
 **Backend Java Engineer**
-*SAP Ireland - Dublin | Mar 2018 – May 2022*
+*SAP Ireland - Dublin* | *Mar 2018 – May 2022*
 
 - Delivered custom SAP Commerce implementations using Java and Spring for medium and large enterprises.
 - Integrated SAP Commerce with other SAP systems via ETL processes; became a global subject matter expert.
@@ -57,13 +56,13 @@ English (native), Irish (fluent), Spanish (conversational).
 - Co-developed MVP of SAP’s learning product using Node.js and contributed to early design.
 
 **Support Engineer**
-*SAP Ireland - Dublin | May 2016 – Mar 2018*
+*SAP Ireland - Dublin* | *May 2016 – Mar 2018*
 
 - Conducted onsite/remote technical engagements with global clients to resolve complex issues.
 - Contributed ABAP-based Key Figures to ERP release cycles.
 
 **Intern & 1st Level Support**
-*SAP Ireland - Dublin | Apr 2015 – May 2016*
+*SAP Ireland - Dublin* | *Apr 2015 – May 2016*
 
 ---
 

@@ -5,7 +5,7 @@ Backend Developer / Architect | +34 689 583 462 | [samdevlin67@gmail.com](mailto
 
 ### SUMMARY
 
-**Backend Developer / Architect** with 9+ years of experience designing, building, and scaling enterprise-grade backend systems using Node.js, Java, and TypeScript. Proven ability to lead cross-functional teams, establish greenfield engineering practices, and deliver resilient cloud-native applications. Recent experience as a “Developer Architect” (blending system design, technical leadership, and hands-on coding) in a role similar to a Tech Lead or Staff Engineer. Passionate about observability, clean architecture, and collaborative problem-solving.
+**Backend Developer / Architect** with 9+ years of experience designing, building, and scaling enterprise-grade backend systems using Node.js, Java, and TypeScript. Proven ability to lead cross-functional teams, establish greenfield engineering practices, and deliver resilient cloud-native applications. Recent experience as a “Developer Architect” (blending system design, technical leadership, and hands-on coding) in a role similar to a Tech Lead or Staff Engineer. Passionate about clean architecture, scalable backend services, and collaborative problem-solving.
 
 ---
 

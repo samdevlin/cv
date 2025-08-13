@@ -15,7 +15,7 @@ Backend Developer / Architect | +34 689 583 462 | [samdevlin67@gmail.com](mailto
 Node.js (JavaScript/TypeScript), Java. Familiar with Python & Go.
 
 **Technical**
-Spring Framework, Docker, Unit/Integration Testing, OOP, Azure, Azure DevOps, SAP BTP, Heroku, App Engine, Android Development, Github, Gerrit, JIRA, Bash Scripting, Linux, Dynatrace, Grafana, REST APIs, OData, Redis, MongoDB, SAP HANA, CI/CD.
+Spring Framework, Docker, Unit/Integration Testing, OOP, Azure, Azure DevOps, SAP BTP, Heroku, App Engine, Android Development, Github, Gerrit, JIRA, Bash Scripting, Linux, Dynatrace, Grafana, REST APIs, OData, Redis, MongoDB, SAP HANA, CI/CD, Content Stack.
 
 **Non-Technical**
 Agile Methodology, Communication, Influencing without Authority, Scrum, SAFe.
@@ -34,7 +34,7 @@ English (native), Irish (fluent), Spanish (conversational).
 - Implemented and refined development and release processes; shaped team culture from MVP stage to commercial product.
 - Led backend architecture design and implementation alongside System Architects; contributed architectural guardrails and requirements documentation.
 - Acted as a bridge between architecture and engineering teams, translating architectural goals into concrete services and stories while coding critical components.
-- Balanced leadership duties with active development: contributed 30–40% of time to writing and reviewing code, ensuring alignment with architectural goals.
+- Balanced leadership duties with active development: contributed 60-70% of time to writing and reviewing code, ensuring alignment with architectural goals.
 - Supported production services using Node.js, SAP CAP, MongoDB, Redis, AWS S3, and SAP HANA.
 - Used Dynatrace & Grafana for live issue root cause analysis and performance optimization.
 - Created MVPs and non-critical projects in Go and Python to explore new tech.

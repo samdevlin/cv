@@ -21,6 +21,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           pip install md2pdf
+          pip install md2pdf[cli]
           mkdir -p _pdf
           echo; echo "Generating PDF"
           md2pdf README.md _pdf/cv_${EPOCHSECONDS}.pdf --css styles/markdown.css

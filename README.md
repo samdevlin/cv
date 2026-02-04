@@ -1,11 +1,13 @@
 # Samuel Devlin
-Backend Developer / Architect | +34 689 583 462 | [samdevlin67@gmail.com](mailto\:samdevlin67@gmail.com) | Barcelona, España
+Developer / Architect | +34 689 583 462 | [samdevlin67@gmail.com](mailto\:samdevlin67@gmail.com) | Barcelona, España
 
 ---
 
 ### SUMMARY
 
-**Backend Developer / Architect** with 9+ years of experience designing, building, and scaling enterprise-grade backend systems using Node.js, Java, and TypeScript. Proven ability to lead cross-functional teams, establish greenfield engineering practices, and deliver resilient cloud-native applications. Recent experience as a “Developer Architect” (blending system design, technical leadership, and hands-on coding) in a role similar to a Tech Lead or Staff Engineer. Passionate about clean architecture, scalable backend services, and collaborative problem-solving.
+**Developer / Architect** with 9+ years of experience designing, building, and scaling enterprise-grade backend systems using Node.js, Java, and TypeScript. Proven ability to lead cross-functional/global teams, establish greenfield engineering practices, and deliver resilient cloud-native applications. Most recently I have worked as a System Architect, blending system design, technical leadership, and hands-on coding. 
+
+I am passionate about solving problems, whether they are at engineering, product or business level. I believe that my value is my ability to simplify complex problems, communicate them effectively and work across all facets of an organisation.
 
 ---
 
@@ -15,10 +17,10 @@ Backend Developer / Architect | +34 689 583 462 | [samdevlin67@gmail.com](mailto
 Node.js (JavaScript/TypeScript), Java. Familiar with Python & Go.
 
 **Technical**
-Spring Framework, Docker, Unit/Integration Testing, OOP, Azure, Azure DevOps, SAP BTP, Heroku, App Engine, Android Development, Github, Gerrit, JIRA, Bash Scripting, Linux, Dynatrace, Grafana, REST APIs, OData, Redis, MongoDB, SAP HANA, CI/CD, Content Stack.
+Docker, Unit/Integration Testing, OOP, Spring Framework, Azure, Azure DevOps, SAP BTP, Heroku, App Engine, Android Development, Github, Gerrit, JIRA, Bash Scripting, Linux, Dynatrace, Grafana, REST APIs, OData, Redis, MongoDB, SAP HANA, CI/CD, Content Stack.
 
 **Non-Technical**
-Agile Methodology, Communication, Influencing without Authority, Scrum, SAFe.
+Agile Principles, Communication, Influencing without Authority, Scrum, SAFe.
 
 **Spoken Languages**
 English (native), Irish (fluent), Spanish (conversational).
@@ -27,12 +29,19 @@ English (native), Irish (fluent), Spanish (conversational).
 
 ### WORK EXPERIENCE
 
+**System Architect**
+*SAP España - Barcelona* | *Jan 2024 - Present*
+
+- Lead backend architecture design and implementation alongside System Architects; contribute to architectural guardrails and requirements documentation.
+- Oversee architecture of the entire system, providing guidance and recommendations during planning & development phases.
+- Involved in architecture and development of several key features, including AI driven certifications, intelligent search and recommendations.
+- Key contributor to several workshops in London, Shanghai and Barcelona to define product and engineering strategy.
+
 **Developer Architect (Tech Lead / Staff Engineer equivalent)**
-*SAP España - Barcelona* | *May 2022 - Present*
+*SAP España - Barcelona* | *May 2022 - Jan 2024*
 
 - Hired as the first employee to establish and build a new product development team; made key hiring decisions for 30+ engineering, DevOps, security, and design roles in a greenfield location.
 - Implemented and refined development and release processes; shaped team culture from MVP stage to commercial product.
-- Led backend architecture design and implementation alongside System Architects; contributed architectural guardrails and requirements documentation.
 - Acted as a bridge between architecture and engineering teams, translating architectural goals into concrete services and stories while coding critical components.
 - Balanced leadership duties with active development: contributed 60-70% of time to writing and reviewing code, ensuring alignment with architectural goals.
 - Supported production services using Node.js, SAP CAP, MongoDB, Redis, AWS S3, and SAP HANA.
@@ -79,4 +88,3 @@ Patrician Secondary School, Ireland | Aug 2012
 ### INTERESTS
 
 Reading and listening to podcasts about FOSS, experimenting with new technologies, music, fitness, and photography.
-

@@ -33,10 +33,10 @@ English (native), Irish (fluent), Spanish (conversational).
 **Engineering Manager**
 _SAP España - Barcelona_ | _Apr 2026 - Present_
 
-- Leading transformation of organization structure, including team setup, role definitions and agile & release processes.
-- Defining the AI strategy for the product, ensuring cohesion with overall SAP strategy.
-- Directing guardrails & initiatives to protect our code integrity while enabling the teams to maximize their capabilities using AI.
-- Conducting 1-1s, performance reviews and coaching team members proactively.
+- Leading the transformation of the engineering organisation, defining team structures, roles, ways of working, and agile and release processes to support the next stage of product development.
+- Defining the product's AI strategy in alignment with broader SAP strategy, identifying opportunities to leverage AI while establishing appropriate technical and organisational guardrails.
+- Driving initiatives to maintain code quality and engineering standards while enabling teams to effectively and safely adopt AI-assisted development.
+- Leading and developing engineers through regular 1:1s, performance reviews, coaching and proactive career development.
 
 **Staff Engineer**
 _SAP España - Barcelona_ | _May 2022 - Apr 2026_

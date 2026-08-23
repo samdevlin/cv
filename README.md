@@ -1,5 +1,5 @@
 # Samuel Devlin
-Developer / Architect | +34 689 583 462 | [samdevlin67@gmail.com](mailto\:samdevlin67@gmail.com) | Barcelona, España
+Engineering Manager | +34 689 583 462 | [samdevlin67@gmail.com](mailto\:samdevlin67@gmail.com) | Barcelona, España
 
 ---
 
@@ -29,8 +29,16 @@ English (native), Irish (fluent), Spanish (conversational).
 
 ### WORK EXPERIENCE
 
+**Engineering Manager**
+*SAP España - Barcelona* | *Apr 2026 - Present*
+
+- Leading transformation of organization structure, including team setup, role definitions and agile & release processes.
+- Defining the AI strategy for the product, ensuring cohesion with overall SAP strategy.
+- Directing guardrails & initiatives to protect our code integrity while enabling the teams to maximize their capabilities using AI.
+- Conducting 1-1s, performance reviews and coaching team members proactively. 
+
 **System Architect**
-*SAP España - Barcelona* | *Jan 2024 - Present*
+*SAP España - Barcelona* | *Jan 2024 - Apr 2026*
 
 - Lead backend architecture design and implementation alongside System Architects; contribute to architectural guardrails and requirements documentation.
 - Oversee architecture of the entire system, providing guidance and recommendations during planning & development phases.

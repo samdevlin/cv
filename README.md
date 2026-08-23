@@ -6,9 +6,9 @@ Engineering Manager | +34 689 583 462 | [samdevlin67@gmail.com](mailto:samdevlin
 
 ### SUMMARY
 
-**Engineering Manager & Backend Engineer** with 9+ years of experience designing, building, and scaling enterprise-grade backend systems using Node.js, Java, and TypeScript. Proven ability to lead cross-functional/global teams, establish greenfield engineering practices, and deliver resilient cloud-native applications. Most recently I have worked as an Engineering Manager, blending system design, technical leadership, and hands-on coding.
+**Engineering Manager & Backend Engineer** with 9+ years of experience designing, building, and scaling enterprise-grade backend systems using Node.js, Java, and TypeScript. Proven ability to lead cross-functional/global teams, establish greenfield engineering practices, and deliver resilient cloud-native applications. I currently work as an Engineering Manager, combining people leadership with system design, technical strategy, and hands-on engineering.
 
-I am passionate about solving problems, whether they are at engineering, product or business level. I believe that my value is my ability to simplify complex problems, communicate them effectively and work across all facets of an organisation.
+I enjoy solving problems across engineering, product, and business, particularly where simplifying complexity and communicating effectively can help teams make better decisions.
 
 ---
 

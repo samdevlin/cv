@@ -5,7 +5,7 @@ Engineering Manager | +34 689 583 462 | [samdevlin67@gmail.com](mailto\:samdevli
 
 ### SUMMARY
 
-**Developer / Architect** with 9+ years of experience designing, building, and scaling enterprise-grade backend systems using Node.js, Java, and TypeScript. Proven ability to lead cross-functional/global teams, establish greenfield engineering practices, and deliver resilient cloud-native applications. Most recently I have worked as a System Architect, blending system design, technical leadership, and hands-on coding. 
+**Engineering Manager & Backend Developer** with 9+ years of experience designing, building, and scaling enterprise-grade backend systems using Node.js, Java, and TypeScript. Proven ability to lead cross-functional/global teams, establish greenfield engineering practices, and deliver resilient cloud-native applications. Most recently I have worked as a Staff Engineer, blending system design, technical leadership, and hands-on coding. 
 
 I am passionate about solving problems, whether they are at engineering, product or business level. I believe that my value is my ability to simplify complex problems, communicate them effectively and work across all facets of an organisation.
 
@@ -37,24 +37,15 @@ English (native), Irish (fluent), Spanish (conversational).
 - Directing guardrails & initiatives to protect our code integrity while enabling the teams to maximize their capabilities using AI.
 - Conducting 1-1s, performance reviews and coaching team members proactively. 
 
-**System Architect**
-*SAP España - Barcelona* | *Jan 2024 - Apr 2026*
+**Staff Engineer**
+*SAP España - Barcelona* | *May 2022 - Apr 2026*
 
 - Lead backend architecture design and implementation alongside System Architects; contribute to architectural guardrails and requirements documentation.
-- Oversee architecture of the entire system, providing guidance and recommendations during planning & development phases.
-- Involved in architecture and development of several key features, including AI driven certifications, intelligent search and recommendations.
-- Key contributor to several workshops in London, Shanghai and Barcelona to define product and engineering strategy.
-
-**Developer Architect (Tech Lead / Staff Engineer equivalent)**
-*SAP España - Barcelona* | *May 2022 - Jan 2024*
-
-- Hired as the first employee to establish and build a new product development team; made key hiring decisions for 30+ engineering, DevOps, security, and design roles in a greenfield location.
-- Implemented and refined development and release processes; shaped team culture from MVP stage to commercial product.
-- Acted as a bridge between architecture and engineering teams, translating architectural goals into concrete services and stories while coding critical components.
-- Balanced leadership duties with active development: contributed 60-70% of time to writing and reviewing code, ensuring alignment with architectural goals.
-- Supported production services using Node.js, SAP CAP, MongoDB, Redis, AWS S3, and SAP HANA.
-- Used Dynatrace & Grafana for live issue root cause analysis and performance optimization.
-- Created MVPs and non-critical projects in Go and Python to explore new tech.
+- Hired as the first employee to establish and build a new product development team; made key hiring decisions across 30+ engineering, DevOps, security and design roles in a greenfield location.
+- Established and refined development and release processes, helping scale the product from MVP to commercial delivery and shaping engineering practices and culture.
+- Bridged architecture and engineering teams, translating architectural goals into concrete services and implementation plans while remaining hands-on with critical development work.
+- Contributed to the architecture and development of key product capabilities, including AI-driven certifications, intelligent search and recommendations, while supporting production services across Node.js, SAP CAP, MongoDB, Redis, AWS S3 and SAP HANA.
+- Contributed to product and engineering strategy through workshops across London, Shanghai and Barcelona, and explored new technologies through MVPs and non-critical projects in Go and Python.
 
 **Technical Lead**
 *SAP Ireland - Dublin* | *Oct 2019 – May 2022*
